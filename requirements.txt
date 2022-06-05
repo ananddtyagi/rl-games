@@ -1,0 +1,5 @@
+gym
+DeepQ
+numpy
+matplotlib
+tensorflow
